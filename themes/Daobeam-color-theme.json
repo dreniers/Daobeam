@@ -50,7 +50,8 @@
     "terminal.ansiBrightYellow": "#B95C00",
     "terminalCursor.foreground": "#ADADAD",
     "terminal.ansiGreen": "#005800",
-    "terminal.ansiBrightGreen": "#009100"
+    "terminal.ansiBrightGreen": "#009100",
+    "minimap.background": "#D1CAAB"
   },
   "tokenColors": [
     {
